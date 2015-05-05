@@ -11,12 +11,25 @@
     text-align:center;
     padding:5px;
 }
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:100px;
+    width:100px;
+    float:center;
+    padding:10px; 
+}
  table, th, td {border: 2.5px solid blue};
 </style>
 </head>
 <body>
 <div id="header">
 <h1>HOMEWORK 3</h1>
+</div>
+<div id="nav">
+Shiven patel<br>
+IS 218<br>
+5/5/2015<br>
 </div>
 <p>
 <?php
