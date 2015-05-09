@@ -24,7 +24,7 @@
 </head>
 <body>
 <div id:"header">
-<h1>Colleges with the Largest Endowment<h1>
+<h1>Colleges with the Largest Endowment</h1>
 </div>
 <div id="nav">
 Shiven patel<br>
