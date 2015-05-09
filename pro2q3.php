@@ -4,7 +4,7 @@
 <meta charset = "UTF-10">
 <title>contact.php</title>
 <style type = "text/css">
- #header {
+#header {
     background-color:black;
     color:white;
     text-align:center;
@@ -23,8 +23,8 @@
 </style>
 </head>
 <body>
-<div id:"header">
-<h1>Colleges with the Largest Endowment</h1>
+<div id="header">
+<h1>Colleges with the largest endowment overall</h1>
 </div>
 <div id="nav">
 Shiven patel<br>
