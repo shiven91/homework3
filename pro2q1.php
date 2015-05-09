@@ -23,7 +23,7 @@
 </head>
 <body>
 <div id="header">
-<h1>PROJECT 2</h1>
+<h1>Colleges with the highest percentage of Women.</h1>
 </div>
 <div id="nav">
 Shiven patel<br>
