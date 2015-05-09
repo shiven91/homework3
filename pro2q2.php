@@ -18,7 +18,7 @@
     float:center;
     padding:10px; 
 }
- table, th, td {border: 2.5px solid blue};
+ table, th, td {border: 2.5px solid red};
 </style>
 </head>
 <body>
