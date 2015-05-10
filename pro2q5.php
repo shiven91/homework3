@@ -30,6 +30,9 @@ Shiven patel<br>
 IS 218<br>
 Final Project<br>
 </div>
+<div>
+<h3> F1B01 = TOTAL NUMBER OF REVENUE FROM TUITION</h3>
+</div>
 <p>
 <?php
         
